@@ -1,5 +1,354 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": null,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intro beat\n1 Put it on then you keep it on (put it on)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "Black epistemologies of sound"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Yung L.A."
+        }
+      ],
+      "uuid": "adad664c-4f2f-4415-823d-ba5c05ad16ec"
+    },
+    {
+      "start_time": 16,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Put it on then you keep it on (keep it on)\nHad to bust my wrist, two tone, yeah, type shit (type shit)\nHuh, yeah we beat it 'til the pack gone\nHad to get in that bowl, light that stove, yeah, type shit (yes, yes)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Yung L.A."
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "\"type shit\""
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Discourse on the trap"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Morphosyntax"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Adlibs"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Storytelling"
+        }
+      ],
+      "uuid": "6fef9d60-7eb5-467a-83d7-e6e338b77b6e"
+    },
+    {
+      "start_time": 27,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Les billets pleuvent sur elle, type shit (type)\nJ'ai fait un p'tit détour à Magic, yeah, type shit (type)\nIls connaissaient même pas j'étais d'jà dans les trap shit (trap shit)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "La Fève"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "\"type shit\""
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "discurive borrowing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "language mixing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Geography"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Discourse on the trap"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Morphosyntax"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Adlibs"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Storytelling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Anglicismes"
+        }
+      ],
+      "uuid": "6469b9e8-cde9-4f5f-996b-4a090bdf6038"
+    },
+    {
+      "start_time": 40,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We don't push no P, we don't like to sneak (we don't like to sneak)\nKnow when that shit get sticky gotta take your lick (your lick)\nKnow when those streets get risky gotta work your wrist (work your wrist)\nWork the bowl, break your wrist, type shit (type shit)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Yung L.A."
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Adlibs"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Morphosyntax"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Storytelling"
+        },
+        {
+          "category": "Sound",
+          "tag": "Black epistemologies of sound"
+        }
+      ],
+      "uuid": "bee59b5d-db8a-46f2-8a13-27cdc212a632"
+    },
+    {
+      "start_time": 53,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fine shit, run it up, type of bitch (type of bitch)\nRollie white face, that's my type of ice (that's my type of ice)\nShe gon' eat it up, that's my type of night\nFly as hell, that's my type of flight (that's my type of flight)\nTop flight, he the police type (he the police type)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Yung L.A."
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Adlibs"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Morphosyntax"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Storytelling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Discourse on type shit"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flow change"
+        }
+      ],
+      "uuid": "60304103-ed59-4377-8760-09456b198c16"
+    },
+    {
+      "start_time": 60,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still got lingo from two years ago I'm talking shit (I'm talking shit)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Yung L.A."
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Adlibs"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Discourse on type shit"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Metalinguistic commentary"
+        }
+      ],
+      "uuid": "cf53b838-fc17-41b7-b19c-fea26e55d92d"
+    },
+    {
+      "start_time": 107,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "À leur âge, mon régime, c'était grec, shit (c'était grec, shit)\nZonard, voleur, rappeur, mon vieux dit, \"quel gâchis\" (quel gâchis)\nMe parle pas avec des mots, parle avec des chiffres (avec des chiffres)\nMaintenant, j'sais qu'on explique mieux avec des gifles (yes sir)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "La Fève"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "discurive borrowing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "language mixing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "language accomodation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Morphosyntax"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Adlibs"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Storytelling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Anglicismes"
+        }
+      ],
+      "uuid": "eb8cfc44-b7ea-4d94-bf72-4b90b3c53811"
+    },
+    {
+      "start_time": 120,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "J'la pilonne ça gicle, elle m'fait faire ma gym, c'est tout c'que j'aime\nNe touche pas mon bif, ne touche pas ma mif c'est tout c'que j'ai\nTellement icy, bientôt je gèle, tout l'temps sur le feu j'ai un projet\nDans le passé j'l'ai fait souffrir mais ne t'inquiète pas maman je gère"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "La Fève"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "discursive borrowing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "language mixing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "language accomodation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Morphosyntax"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Adlibs"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Storytelling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Anglicismes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Flow change"
+        }
+      ],
+      "uuid": "e985840f-00b0-4218-b00e-6f7624348c27"
+    }
+  ],
   "set": "Default",
   "event_id": "807f02fc-414d-491e-941c-ddde93af245b",
   "source_id": "56d62d6c-b3d6-40f8-ad86-405fe446d3d5"
