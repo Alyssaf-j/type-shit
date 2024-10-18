@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-10-18T05:27:02.443Z",
+  "created_by": "Alyssaf-j",
+  "title": "Song 1",
+  "slug": "song-1",
+  "updated_at": "2024-10-18T05:27:02.443Z",
+  "updated_by": "Alyssaf-j",
+  "parent": "3cb795b2-f281-4f5e-8344-19f95803b3ea",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "0bc88771-fbe0-45bc-8c65-9021baf7d86a"
+  }
+}
